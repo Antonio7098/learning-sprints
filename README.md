@@ -50,8 +50,6 @@ learning-sprints/
 │   │   ├── marking-code.md             # Code review
 │   │   └── marking-questions.md        # Q&A review
 │   └── sprints/                        # Created sprint files
-└── examples/
-    └── [example-project]/
 ```
 
 ## Getting Started
