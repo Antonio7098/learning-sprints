@@ -41,34 +41,17 @@ learning-sprints/
 ├── README.md                           # This file
 ├── docs/
 │   ├── templates/
-│   │   ├── sprint-learning-template.md # Template for individual sprints
-│   │   ├── learning-goals-template.md  # Master planning document
-│   │   └── overview-template.md        # Template for project overviews
+│   │   ├── sprint-learning-template.md # Sprint file template
+│   │   └── learning-goals-template.md  # Master planning document
 │   ├── instructions/
-│   │   ├── defining-learning-goals.md  # Guide for collaborative goal setting
-│   │   ├── begin-walkthrough.md        # Instructions for sprint walkthroughs
-│   │   ├── creating-a-sprint.md        # Instructions for creating sprints
-│   │   ├── marking-code.md             # Instructions for code marking
-│   │   └── marking-questions.md        # Instructions for Q&A marking
-│   └── sprints/                        # Sprint files (user work)
-│       └── Sprint-01-[Concept].md
+│   │   ├── defining-learning-goals.md  # Collaborative goal setting
+│   │   ├── creating-a-sprint.md        # Sprint creation
+│   │   ├── begin-walkthrough.md        # Sprint walkthrough
+│   │   ├── marking-code.md             # Code review
+│   │   └── marking-questions.md        # Q&A review
+│   └── sprints/                        # Created sprint files
 └── examples/
-    └── [example-project]/              # Example project structure
-```
-learning-sprints/
-├── AGENTS.md                           # AI operational context (read this first)
-├── README.md                           # This file
-├── docs/
-│   ├── templates/
-│   │   ├── sprint-learning-template.md # Template for creating new sprints
-│   │   └── overview-template.md        # Template for project overviews
-│   ├── instructions/
-│   │   ├── begin-walkthrough.md        # Instructions for sprint walkthroughs
-│   │   ├── creating-a-sprint.md        # Instructions for creating sprints
-│   │   ├── marking-code.md             # Instructions for code marking
-│   │   └── marking-questions.md        # Instructions for Q&A marking
-│   └── sprints/                        # Sprint files (user work)
-│       └── Sprint-01-[Concept].md
+    └── [example-project]/
 ```
 
 ## Getting Started
